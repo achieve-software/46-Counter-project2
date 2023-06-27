@@ -1,6 +1,6 @@
 # 46-Counter-project2
 ## Description
-Project aims to create -Counter-project
+Project aims to create -Counter-project-2
 ## Project Skeleton
 ```
 Progress-Steps (folder)
