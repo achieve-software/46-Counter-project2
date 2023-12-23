@@ -3,7 +3,7 @@
 Project aims to create -Counter-project-2
 ## Project Skeleton
 ```
-Progress-Steps (folder)
+Counter-project2
 |----readme.md
 |----index.html
 |----style.css
